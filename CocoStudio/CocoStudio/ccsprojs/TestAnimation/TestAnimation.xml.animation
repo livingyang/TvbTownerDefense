@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\livinglhmli\Documents\GitHub\TvbTownerDefense\CocoStudio\CocoStudio\ccsprojs\TestAnimation</ProjectDir>
+  <Version>1.4.0.1</Version>
+  <Resources>C:\Users\livinglhmli\Documents\GitHub\TvbTownerDefense\CocoStudio\CocoStudio\assets</Resources>
+  <Name>TestAnimation</Name>
+  <JsonFileName>TestAnimation.json</JsonFileName>
+  <JsonFolder>C:\Users\livinglhmli\Documents\GitHub\TvbTownerDefense\CocoStudio\CocoStudio\ccsprojs\TestAnimation\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>C:\Users\livinglhmli\Documents\GitHub\TvbTownerDefense\CocoStudio\CocoStudio\ccsprojs\TestAnimation\TestAnimation.xml.animation</filePath>
+  <ProjectType>AnimationProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <ResourceFileList />
+  <bBatchImage>false</bBatchImage>
+</AnimationProject>
