@@ -16,5 +16,7 @@
   <ResRelativePath>\\..\\..\\assets</ResRelativePath>
   <JSFileList />
   <DefaultUI_JSList />
+  <ExternalSimulatorPath>C:\Program Files (x86)\CocoStudio\Simulator.exe</ExternalSimulatorPath>
+  <ExternalCommand>-FLUSHTYPE 1 -XMLPATH C:\Users\livinglhmli\Documents\GitHub\TvbTownerDefense\CocoStudio\CocoStudio\ccsprojs\MainScene\MainScene.xml.scene -DLLPATH C:\Users\livinglhmli\Documents\CocoStudio\Plugins\1.4\CustomWidget.dll|</ExternalCommand>
   <Res>C:\Users\livinglhmli\Documents\GitHub\TvbTownerDefense\CocoStudio\CocoStudio\assets</Res>
 </SceneProject>

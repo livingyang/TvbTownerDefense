@@ -9,8 +9,10 @@
   "dataScale": 1,
   "designHeight": 320,
   "designWidth": 480,
-  "textures": null,
-  "texturesPng": [],
+  "textures": [],
+  "texturesPng": [
+    "GUI/button.png"
+  ],
   "version": "1.4.0.1",
   "widgetTree": {
     "classname": "Panel",
